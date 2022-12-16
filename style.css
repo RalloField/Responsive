@@ -28,7 +28,7 @@
         body {
             background-color: rgb(17, 84, 20);
                 }
-        #Medium.div{
+        #Medium div{
             display: flex;
         }
         .first{
@@ -62,7 +62,7 @@
             background-color: rgb(21, 42, 199);
             color: rgb(243, 245, 246);
         }
-        #Large.div{
+        #Large div{
             display: flex;
         }
         h1{
